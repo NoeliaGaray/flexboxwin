@@ -38,13 +38,15 @@ div {
   flex-grow: 1;
 }
 
-.encabezado > div {
+/* .encabezado > div {
   background-color: gold;
-}
+} */
 
 .redondo {
   /* margin: auto; */
   /* border-radius: 25px; */
+  /* align-content: center;
+  justify-content: center; */
   padding-top: 0.25em;
   padding-left: 0.25em;
   padding-right: 0.25em;
